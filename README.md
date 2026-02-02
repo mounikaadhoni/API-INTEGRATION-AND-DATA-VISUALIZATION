@@ -12,14 +12,19 @@
 
 *MENTOR*:NEELA SANTHOSH
 
-DESCRIPTION:
+DESCRIPTION:API INTEGRATION AND DATA VISUALIZATION 
 
-Weather Forecast Visualization – Codetech IT Solutions Pvt Ltd
 Overview
 
-This project demonstrates API integration and data visualization using Python, aimed at providing a clear, interactive way to analyze weather trends. It fetches real-time weather forecast data for Hyderabad from the OpenWeatherMap API and visualizes key parameters such as temperature, humidity, and wind speed over a five-day period. The project showcases practical skills in API interaction, data processing, and visualization techniques, and is designed to run on a cross-platform Python environment including Windows, macOS, and Linux.
+This project demonstrates API integration and data visualization using Python, aimed at providing a clear, interactive way to analyze weather trends. It fetches real-time weather forecast data for Hyderabad from 
 
-The goal of this project is to demonstrate how real-world data can be accessed programmatically and presented in an informative and visually appealing manner. It is suitable for academic projects, professional portfolios, and as a foundation for more advanced weather data analysis applications.
+the OpenWeatherMap API and visualizes key parameters such as temperature, humidity, and wind speed over a five-day period. The project showcases practical skills in API interaction, data processing, and 
+
+visualization techniques, and is designed to run on a cross-platform Python environment including Windows, macOS, and Linux.
+
+The goal of this project is to demonstrate how real-world data can be accessed programmatically and presented in an informative and visually appealing manner. It is suitable for academic projects, professional 
+
+portfolios, and as a foundation for more advanced weather data analysis applications.
 
 Features
 
@@ -80,6 +85,7 @@ Temperature trends over time
 Humidity trends over time
 
 Wind speed trends over time
+
 Each plot is titled for clarity, and all plots are arranged together for easy comparison.
 
 Display: The plots are displayed using plt.show(), providing an intuitive visual understanding of weather patterns.
